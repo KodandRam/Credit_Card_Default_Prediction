@@ -1,11 +1,12 @@
 # Credit_Card_Default_Prediction
 
-#Credit Card Default Prediction
-##About Dataset:
+Credit Card Default Prediction
+
+About Dataset:
 
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.The dataset is widely used for studying credit risk and default prediction. Many researchers and practitioners have used this dataset to develop credit scoring models, which are used by banks and other financial institutions to assess the creditworthiness of their customers and to predict their likelihood of defaulting on their loans.
 
-###Dataset Content
+Dataset Content
 
 The data set contains 25 different features, including demographic information such as gender, education, and marital status, as well as credit card-related features such as credit limit, payment history, and bill amount.
 
@@ -35,7 +36,7 @@ The data set contains 25 different features, including demographic information s
 24. PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
 25. default.payment.next.month: Default payment (1=yes, 0=no)
 
-###Source
+Source
 Data source from kaggle: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 
 Original Data Source: http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
